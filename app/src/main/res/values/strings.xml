@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">liveDataDemo</string>
+    <string name="liveDataBasic">Basic LiveData</string>
 </resources>
